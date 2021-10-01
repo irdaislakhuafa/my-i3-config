@@ -1,0 +1,172 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/view/MainForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/view/TargetForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/com/belajar/view/MainForm.java" />
+      <option value="$PROJECT_DIR$/src/com/belajar/view/TargetForm.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring Component v0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring Component v0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring Component v0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="belajar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring Component v0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="belajar" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37738097" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33045685" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="6" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="285" y="235" key="FileChooserDialogImpl" timestamp="1627140333330">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="285" y="235" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.1024@0.0.1280.1024" timestamp="1627140333330" />
+    <state width="1237" height="297" key="GridCell.Tab.0.bottom" timestamp="1627148727795">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="297" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.1024@0.0.1280.1024" timestamp="1627148727795" />
+    <state width="1237" height="297" key="GridCell.Tab.0.center" timestamp="1627148727791">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="297" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.1024@0.0.1280.1024" timestamp="1627148727791" />
+    <state width="1237" height="297" key="GridCell.Tab.0.left" timestamp="1627148727790">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="297" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.1024@0.0.1280.1024" timestamp="1627148727790" />
+    <state width="1237" height="297" key="GridCell.Tab.0.right" timestamp="1627148727792">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1237" height="297" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.1024@0.0.1280.1024" timestamp="1627148727792" />
+    <state x="256" y="245" width="763" height="500" key="SettingsEditor" timestamp="1627140807825">
+      <screen x="0" y="0" width="1280" height="1024" />
+    </state>
+    <state x="256" y="245" width="763" height="500" key="SettingsEditor/1280.0.1920.1080/0.0.1280.1024@0.0.1280.1024" timestamp="1627140807825" />
+    <state x="1755" y="180" width="806" height="763" key="new project wizard" timestamp="1627140350779">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1755" y="180" width="806" height="763" key="new project wizard/1280.0.1920.1080/0.0.1280.1024@0.0.1280.1024" timestamp="1627140350779" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/MainForm.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/TargetForm.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/MainForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="41" column="11" lean-forward="true" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/TargetForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

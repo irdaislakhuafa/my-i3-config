@@ -1,0 +1,192 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/view/MainForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1905#1932#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/view/TargetForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/view/TargetForm.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/view/MainForm.form">
+          <provider selected="true" editor-type-id="ui-designer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/com/belajar/view/MainForm.form" />
+      <option value="$PROJECT_DIR$/src/com/belajar/view/TargetForm.form" />
+      <option value="$PROJECT_DIR$/src/com/belajar/view/MainForm.java" />
+      <option value="$PROJECT_DIR$/src/com/belajar/view/TargetForm.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Spring Component v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring Component v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring Component v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="belajar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring Component v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring Component v1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="belajar" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18710527" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299712" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.40009606" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="right" id="Layout Validation" order="6" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1944" y="244" key="FileChooserDialogImpl" timestamp="1627144981290">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1944" y="244" key="FileChooserDialogImpl/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627144981290" />
+    <state width="1877" height="315" key="GridCell.Tab.0.bottom" timestamp="1627145001378">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627145001378" />
+    <state width="1877" height="315" key="GridCell.Tab.0.center" timestamp="1627145001376">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.center/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627145001376" />
+    <state width="1877" height="315" key="GridCell.Tab.0.left" timestamp="1627145001375">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.left/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627145001375" />
+    <state width="1877" height="315" key="GridCell.Tab.0.right" timestamp="1627145001377">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="315" key="GridCell.Tab.0.right/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627145001377" />
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom" timestamp="1627144675491">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.bottom/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627144675491" />
+    <state width="1877" height="388" key="GridCell.Tab.1.center" timestamp="1627144675487">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.center/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627144675487" />
+    <state width="1877" height="388" key="GridCell.Tab.1.left" timestamp="1627144675485">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.left/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627144675485" />
+    <state width="1877" height="388" key="GridCell.Tab.1.right" timestamp="1627144675489">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="388" key="GridCell.Tab.1.right/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627144675489" />
+    <state x="1832" y="137" width="806" height="763" key="new project wizard" timestamp="1627144999250">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1832" y="137" width="806" height="763" key="new project wizard/1280.0.1920.1080/0.0.1280.1024@1280.0.1920.1080" timestamp="1627144999250" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/TargetForm.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/TargetForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/MainForm.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/view/MainForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1905#1932#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,145 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="614">
+              <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41" selection-start-column="41" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/input.txt" />
+      <option value="$PROJECT_DIR$/src/com/belajar/java/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-1" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19210246" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Run" order="0" weight="0.3329776" />
+      <window_info anchor="right" id="Terminal" order="1" weight="0.3655283" />
+      <window_info anchor="right" id="Build" order="2" side_tool="true" visible="true" weight="0.3329776" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="183" width="1720" height="853" key="DiffContextDialog" timestamp="1616081826727">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="424" y="183" width="1720" height="853" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1616081826727" />
+    <state x="743" y="297" key="FileChooserDialogImpl" timestamp="1616077460326">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="297" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1616077460326" />
+    <state width="623" height="440" key="GridCell.Tab.0.bottom" timestamp="1616084460353">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="623" height="440" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1616084460353" />
+    <state width="623" height="440" key="GridCell.Tab.0.center" timestamp="1616084460348">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="623" height="440" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1616084460348" />
+    <state width="623" height="440" key="GridCell.Tab.0.left" timestamp="1616084460315">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="623" height="440" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1616084460315" />
+    <state width="623" height="440" key="GridCell.Tab.0.right" timestamp="1616084460351">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="623" height="440" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1616084460351" />
+    <state x="448" y="134" width="1024" height="839" key="SettingsEditor" timestamp="1616081060315">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="448" y="134" width="1024" height="839" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1616081060315" />
+    <state x="554" y="166" width="802" height="768" key="new project wizard" timestamp="1616077484333">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="554" y="166" width="802" height="768" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1616077484333" />
+    <state x="624" y="255" key="run.anything.popup" timestamp="1616081775493">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="255" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1616081775493" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="36" column="61" lean-forward="true" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

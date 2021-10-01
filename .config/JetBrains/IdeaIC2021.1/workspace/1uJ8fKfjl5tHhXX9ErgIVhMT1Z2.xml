@@ -1,0 +1,365 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="eclipse-workspace-droidfoot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/DFMyRoketActivity.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Space.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Laser.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Rocket1.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/Actor.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/ActorSet.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/World.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/Greenfoot.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/blasted.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Rocket2.java">
+          <provider selected="true" editor-type-id="android-source-code" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>showText</find>
+      <find>show</find>
+      <find>mouse</find>
+      <find>mouseMoved</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/MyRoket/res/values/strings.xml" />
+      <option value="$PROJECT_DIR$/MyRoket/AndroidManifest.xml" />
+      <option value="$PROJECT_DIR$/MyRoket/src/blasted.java" />
+      <option value="$PROJECT_DIR$/MyRoket/src/Rocket2.java" />
+      <option value="$PROJECT_DIR$/MyRoket/src/Space.java" />
+      <option value="$PROJECT_DIR$/MyRoket/src/Laser.java" />
+      <option value="$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/blasted.java" />
+      <option value="$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/DFMyRoketActivity.java" />
+      <option value="$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Rocket1.java" />
+      <option value="$PROJECT_DIR$/Droidfoot/src/greenfoot/Greenfoot.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Droidfoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Droidfoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Droidfoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="greenfoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Droidfoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="droidfoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRoket" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRoket" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRoket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-workspace-droidfoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRoket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="anira" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_MyRoket - 2021.06.22 at 22h 08m 44s.xml">
+      <configuration name="All in MyRoket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_MyRoket_(1) - 2021.06.22 at 22h 15m 53s.xml">
+      <configuration name="All in MyRoket (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5005274" visible="true" weight="0.25026315" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.49947256" side_tool="true" weight="0.25026315" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Build Variants" order="6" side_tool="true" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3299712" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Logcat" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="11" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.3299712" />
+      <window_info anchor="bottom" id="Layout Inspector" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Database Inspector" order="14" />
+      <window_info anchor="right" id="JDT AST" order="0" />
+      <window_info anchor="right" id="Android Emulator" order="1" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" order="2" side_tool="true" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Favorites</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="683" y="205" width="543" height="627" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1624375272576">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="683" y="205" width="543" height="627" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1624375272576" />
+    <state x="741" y="393" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624374137266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="741" y="393" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1624374137266" />
+    <state x="755" y="377" width="415" height="223" key="DetectedRootsChooserDialog" timestamp="1624372907836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="755" y="377" width="415" height="223" key="DetectedRootsChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1624372907836" />
+    <state x="651" y="202" width="614" height="502" key="FileChooserDialogImpl" timestamp="1624545214986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="651" y="202" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1600.900@0.0.1920.1080" timestamp="1624545214986" />
+    <state x="653" y="220" width="614" height="502" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1624374881875" />
+    <state width="1854" height="315" key="GridCell.Tab.0.bottom" timestamp="1624375348138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1624375348138" />
+    <state width="1854" height="315" key="GridCell.Tab.0.center" timestamp="1624375348136">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="315" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1624375348136" />
+    <state width="1854" height="315" key="GridCell.Tab.0.left" timestamp="1624375348135">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="315" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1624375348135" />
+    <state width="1854" height="315" key="GridCell.Tab.0.right" timestamp="1624375348137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="315" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1624375348137" />
+    <state x="564" y="165" width="795" height="586" key="SettingsEditor" timestamp="1624374832772">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="564" y="165" width="795" height="586" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1624374832772" />
+    <state x="667" y="370" width="587" height="202" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1624374748406">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="370" width="587" height="202" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1624374748406" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Roket/bin/R.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/WorldManager.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/GreenfootSound.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/DFMyRoketActivity.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Space.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Laser.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Rocket1.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/Actor.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/ActorSet.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/World.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droidfoot/src/greenfoot/Greenfoot.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/blasted.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyRoket/src/org/droidfoot/anira/Rocket2.java">
+      <provider selected="true" editor-type-id="android-source-code" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql:mysql-connector-java:5.1.40</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 14 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|MyRoket</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Droidfoot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

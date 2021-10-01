@@ -1,0 +1,8 @@
+AntSupport
+com.android.tools.idea.smali
+com.intellij.gradle
+org.intellij.groovy
+org.jetbrains.android
+org.jetbrains.kotlin
+org.jetbrains.plugins.github
+tanvd.grazi

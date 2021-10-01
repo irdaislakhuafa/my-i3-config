@@ -1,0 +1,137 @@
+<project version="4">
+  <component name="FavoritesManager">
+    <favorites_list name="58 - Buffered Character Stream" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/belajar/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/output.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/com/belajar/java/MAin.java" />
+      <option value="$PROJECT_DIR$/input.txt" />
+      <option value="$PROJECT_DIR$/output.txt" />
+      <option value="$PROJECT_DIR$/src/com/belajar/java/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24959481" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.24959481" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32905984" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Layout Validation" order="0" />
+      <window_info anchor="right" id="Run" order="1" weight="0.37844408" />
+    </layout>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="466" height="655" key="GridCell.Tab.0.bottom" timestamp="1616567527162">
+      <screen x="1920" y="0" width="1280" height="800" />
+    </state>
+    <state width="466" height="655" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1280.800@1920.0.1280.800" timestamp="1616567527162" />
+    <state width="414" height="908" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1616559483084" />
+    <state width="630" height="908" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1616434397340" />
+    <state width="466" height="655" key="GridCell.Tab.0.center" timestamp="1616567527159">
+      <screen x="1920" y="0" width="1280" height="800" />
+    </state>
+    <state width="466" height="655" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1280.800@1920.0.1280.800" timestamp="1616567527159" />
+    <state width="414" height="908" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1616559483083" />
+    <state width="630" height="908" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1616434397338" />
+    <state width="466" height="655" key="GridCell.Tab.0.left" timestamp="1616567527158">
+      <screen x="1920" y="0" width="1280" height="800" />
+    </state>
+    <state width="466" height="655" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1280.800@1920.0.1280.800" timestamp="1616567527158" />
+    <state width="414" height="908" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1616559483083" />
+    <state width="630" height="908" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1616434397337" />
+    <state width="466" height="655" key="GridCell.Tab.0.right" timestamp="1616567527160">
+      <screen x="1920" y="0" width="1280" height="800" />
+    </state>
+    <state width="466" height="655" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1280.800@1920.0.1280.800" timestamp="1616567527160" />
+    <state width="414" height="908" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1600.900@0.27.1920.1053" timestamp="1616559483084" />
+    <state width="630" height="908" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1616434397339" />
+    <state x="2174" y="92" width="762" height="610" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1616559405817">
+      <screen x="1920" y="0" width="1600" height="900" />
+    </state>
+    <state x="2174" y="92" width="762" height="610" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053/1920.0.1600.900@1920.0.1600.900" timestamp="1616559405817" />
+    <state x="2154" y="27" width="802" height="768" key="new project wizard" timestamp="1616570746545">
+      <screen x="1920" y="0" width="1280" height="800" />
+    </state>
+    <state x="2154" y="27" width="802" height="768" key="new project wizard/0.27.1920.1053/1920.0.1280.800@1920.0.1280.800" timestamp="1616570746545" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/java/MAin.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/belajar/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

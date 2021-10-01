@@ -1,0 +1,8 @@
+! set theme
+rofi.theme: /usr/share/rofi/themes/Arc-Dark.rasi
+
+! set width
+rofi.width 50
+
+! set opacity
+rofi.opacity 0

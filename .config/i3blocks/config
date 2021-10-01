@@ -1,0 +1,91 @@
+# For the benefit of emacs users: -*- shell-script -*-
+#
+#  _ _____ _     _            _
+# (_)___ /| |__ | | ___   ___| | _____
+# | | |_ \| '_ \| |/ _ \ / __| |/ / __|
+# | |___) | |_) | | (_) | (__|   <\__ \
+# |_|____/|_.__/|_|\___/ \___|_|\_\___/
+
+align=center
+separator=false
+color=#f8f8f2
+separator_block_width=15
+markup=pango
+
+#[code]
+#command=~/.config/i3blocks/mode/kelas.sh
+#interval=3600
+#label=<span color="#ffffff"> </span>
+
+[linux]
+full_text= Artix Linux
+
+#[music]
+#command=~/.config/i3blocks/scripts/music.sh
+#interval=2
+
+#[internet]
+#command=~/.config/i3blocks/scripts/internet.sh
+#interval=persist
+
+[wifi]
+command=iw dev $(iwctl device list | grep station | awk '{print$1}') link | grep SSID | cut -d " " -f 2-
+interval=1
+label=<span color="#00aaff"> </span>
+
+[lan]
+command=ip link | cut -d ":" -f 2 | grep enp
+instance=enp0s20f0u1
+interval=1
+label=<span color="#ff0000"> </span>
+
+[recording]
+command=~/.config/i3blocks/scripts/record.sh
+interval=1
+
+[battery]
+command=~/.config/i3blocks/scripts/battery.sh
+interval=1
+
+#[root]
+#command=df -h / | awk 'FNR==2 { gsub(/[A-Za-z]/, ""); printf "%i<span color=\"#ffff00\">GiB</span>\n", $4 }'
+#interval=3
+#label=<span color="#ffff00"> </span>
+
+[gpu_stats]
+command=nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader,nounits | awk '{ printf "%02i<span color=\"#00ff00\">%</span>", $0}' && nvidia-smi --query-gpu=temperature.gpu --format=csv,noheader,nounits | awk '{ printf " %i<span color=\"#00ff00\">°C</span>\n", $0}' 
+#command=~/.config/i3blocks/scripts/nvidia.sh
+interval=1
+label=<span color="#00ff00"><b>Nvidia </b></span>
+
+[brihgtness]
+command=~/.config/i3blocks/scripts/brightness.sh
+interval=1
+
+[memory]
+interval=1
+command=echo $(free -h | grep Mem | awk 'FNR=2 {printf "%sB / %sB", $3,$7}')
+label=<span color="#55ffff"> </span>
+
+[swap]
+command=echo " $(free --mebi | grep Swap | awk 'FNR=2 { printf "%sMiB / %sMiB", $3, $4}')"
+interval=1
+label=<span color="#aaaaff"></span>
+
+[volume]
+command=/usr/bin/sh ~/.config/i3blocks/scripts/volume.sh
+interval=1
+
+[temp]
+command=/usr/bin/sh ~/.config/i3blocks/scripts/temp.sh
+interval=1
+
+[time]
+command=/usr/bin/sh ~/.config/i3blocks/scripts/clock.sh
+label=<span color="#55aaff">⏲️ </span>
+interval=60
+
+[date]
+command=echo "$(date +%A) $(date +%d) $(date +%B) $(date +%Y)  "
+interval=3600
+label=<span color="#ff5555"> </span>

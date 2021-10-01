@@ -1,0 +1,39 @@
+/* set configuration class */
+configuration {
+	/* set width */
+	width: 20;
+
+	/* show icons */
+	show-icons: true;
+
+	/* set themes 
+	theme: "/usr/share/rofi/themes/Arc-Dark.rasi";*/
+	theme: "solarized_alternate";
+
+	/* set line */
+	lines: 10;
+}
+
+/* set all class */
+* {
+	/* set border/rounded */
+	border-radius: 5px;
+
+	background-color: transparent;
+}
+
+/* set window class */
+window {
+	/* set border color */
+	border-color: #002b36;
+
+	/* set location center */
+	location: center;
+
+	/* set border 0px */
+	border: 0px;
+
+	/* set border transparent */
+	transparency: "screenshot";
+}
+

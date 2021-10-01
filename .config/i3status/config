@@ -1,0 +1,98 @@
+# i3status configuration file.
+# see "man i3status" for documentation.
+
+# It is important that this file is edited as UTF-8.
+# The following line should contain a sharp s:
+# ß
+# If the above line is not correctly displayed, fix your editor first!
+
+general {
+    	colors = true
+	color_good = "#3498db"
+	color_degraded = "#ffff00"
+	color_bad = "#f2eb24"
+	interval = 2
+}
+
+
+#order += "ipv6"
+order += "wireless _first_"
+order += "ethernet _first_"
+order += "battery all"
+
+# show brightness
+order += "read_file BRIGHTNESS"
+
+order += "disk /"
+#order += "load"
+
+
+# show cpu
+order += "cpu_usage"
+order += "cpu_temperature 0"
+
+# order nenory
+order += "memory"
+#order += "free"
+
+order += "tztime local"
+
+
+# read brightness
+read_file BRIGHTNESS {
+	format = "Brightness %content"
+	color_good = "#ffffff"
+	path = "/sys/class/backlight/intel_backlight/brightness"
+}
+
+# cpu temp
+cpu_temperature 0 {
+	format = "🌡️ %degrees°C"
+}
+
+# cpu usage
+cpu_usage {
+	format = "CPU %usage {%cpu0 %cpu1 %cpu2 %cpu3}"
+	max_threshold = "65"
+}
+
+wireless _first_ {
+	format_up = "Wifi %essid > %quality > %ip"
+	format_down = "Wifi zZ"
+}
+
+ethernet _first_ {
+        format_up = "E: %ip (%speed)"
+        format_down = ""
+}
+
+battery all {
+        format = "%status %percentage %remaining (%emptytime %consumption)"
+	status_chr = "Charge ⚡"
+	status_bat = "Battery ⌛"
+	status_full = "Full "
+	low_threshold = 30
+	color_good = "#4C54D2"
+}
+
+disk "/" {
+        format = " %avail"
+}
+
+#load {
+#        format = "%1min"
+#}
+
+memory {
+        format = "Used ♥ %used  Free ♡ %available"
+        threshold_degraded = "1G"
+        format_degraded = "Warning! < %available"
+}
+
+#memory free {
+#	format = "Free %available"
+#}
+
+tztime local {
+        format = "⏲️ %H:%M:%S  %d-%m-20%y  "
+}

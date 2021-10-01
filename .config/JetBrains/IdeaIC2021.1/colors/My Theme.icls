@@ -1,0 +1,50 @@
+<scheme name="My Theme" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2021-06-15T19:14:35</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2021.1.1.0.0</property>
+    <property name="modified">2021-08-17T21:35:53</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro Medium" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="343c4a" />
+  </colors>
+  <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="343c4a" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="fff300" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="3277cc" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="1aa8ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="a800ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="ff0a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
